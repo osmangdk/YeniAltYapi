@@ -1,0 +1,11 @@
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Persistence.deps.json
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Persistence.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Persistence.pdb
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.AssemblyInfoInputs.cache
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.AssemblyInfo.cs
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.csproj.CoreCompileInputs.cache
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\refint\CleanApp.Persistence.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.pdb
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\ref\CleanApp.Persistence.dll

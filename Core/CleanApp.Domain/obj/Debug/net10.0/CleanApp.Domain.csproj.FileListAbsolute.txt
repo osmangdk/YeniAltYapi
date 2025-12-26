@@ -1,0 +1,11 @@
+E:\Github\YeniAltYapi\Core\CleanApp.Domain\bin\Debug\net10.0\CleanApp.Domain.deps.json
+e:\Github\YeniAltYapi\Core\CleanApp.Domain\bin\Debug\net10.0\CleanApp.Domain.dll
+e:\Github\YeniAltYapi\Core\CleanApp.Domain\bin\Debug\net10.0\CleanApp.Domain.pdb
+e:\Github\YeniAltYapi\Core\CleanApp.Domain\obj\Debug\net10.0\CleanApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+e:\Github\YeniAltYapi\Core\CleanApp.Domain\obj\Debug\net10.0\CleanApp.Domain.AssemblyInfoInputs.cache
+e:\Github\YeniAltYapi\Core\CleanApp.Domain\obj\Debug\net10.0\CleanApp.Domain.AssemblyInfo.cs
+e:\Github\YeniAltYapi\Core\CleanApp.Domain\obj\Debug\net10.0\CleanApp.Domain.csproj.CoreCompileInputs.cache
+e:\Github\YeniAltYapi\Core\CleanApp.Domain\obj\Debug\net10.0\CleanApp.Domain.dll
+e:\Github\YeniAltYapi\Core\CleanApp.Domain\obj\Debug\net10.0\refint\CleanApp.Domain.dll
+e:\Github\YeniAltYapi\Core\CleanApp.Domain\obj\Debug\net10.0\CleanApp.Domain.pdb
+E:\Github\YeniAltYapi\Core\CleanApp.Domain\obj\Debug\net10.0\ref\CleanApp.Domain.dll

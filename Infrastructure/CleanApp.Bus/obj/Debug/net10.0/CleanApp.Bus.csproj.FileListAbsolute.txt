@@ -1,0 +1,11 @@
+E:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\bin\Debug\net10.0\CleanApp.Bus.deps.json
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\bin\Debug\net10.0\CleanApp.Bus.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\bin\Debug\net10.0\CleanApp.Bus.pdb
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.Bus.GeneratedMSBuildEditorConfig.editorconfig
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.Bus.AssemblyInfoInputs.cache
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.Bus.AssemblyInfo.cs
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.Bus.csproj.CoreCompileInputs.cache
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.Bus.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\refint\CleanApp.Bus.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.Bus.pdb
+E:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\ref\CleanApp.Bus.dll

@@ -1,0 +1,11 @@
+E:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\bin\Debug\net10.0\CleanApp.Caching.deps.json
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\bin\Debug\net10.0\CleanApp.Caching.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\bin\Debug\net10.0\CleanApp.Caching.pdb
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\obj\Debug\net10.0\CleanApp.Caching.GeneratedMSBuildEditorConfig.editorconfig
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\obj\Debug\net10.0\CleanApp.Caching.AssemblyInfoInputs.cache
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\obj\Debug\net10.0\CleanApp.Caching.AssemblyInfo.cs
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\obj\Debug\net10.0\CleanApp.Caching.csproj.CoreCompileInputs.cache
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\obj\Debug\net10.0\CleanApp.Caching.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\obj\Debug\net10.0\refint\CleanApp.Caching.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\obj\Debug\net10.0\CleanApp.Caching.pdb
+E:\Github\YeniAltYapi\Infrastructure\CleanApp.Caching\obj\Debug\net10.0\ref\CleanApp.Caching.dll
