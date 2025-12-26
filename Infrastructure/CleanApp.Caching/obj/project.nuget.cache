@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VDDGXXF7AIk=",
+  "dgSpecHash": "FGUpKG527Js=",
   "success": true,
   "projectFilePath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Caching\\CleanApp.Caching.csproj",
   "expectedPackageFiles": [
@@ -102,7 +102,7 @@
     {
       "code": "NU1608",
       "level": "Warning",
-      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Microsoft.CodeAnalysis.CSharp 2.8.2, Microsoft.CodeAnalysis.Common (= 2.8.2) gerektiriyor ancak sürüm Microsoft.CodeAnalysis.Common 4.5.0 çözümlenmiş.",
+      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp 2.8.2 requires Microsoft.CodeAnalysis.Common (= 2.8.2) but version Microsoft.CodeAnalysis.Common 4.5.0 was resolved.",
       "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Caching\\CleanApp.Caching.csproj",
       "warningLevel": 1,
       "filePath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Caching\\CleanApp.Caching.csproj",
