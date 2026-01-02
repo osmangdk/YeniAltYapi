@@ -1,4 +1,4 @@
-e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Persistence.deps.json
+E:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Persistence.deps.json
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Persistence.dll
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Persistence.pdb
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Application.dll
@@ -11,8 +11,8 @@ e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\Clea
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.AssemblyInfo.cs
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.csproj.CoreCompileInputs.cache
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.sourcelink.json
-e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.279648B3.Up2Date
+E:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.279648B3.Up2Date
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.dll
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\refint\CleanApp.Persistence.dll
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.pdb
-e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\ref\CleanApp.Persistence.dll
+E:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\ref\CleanApp.Persistence.dll
