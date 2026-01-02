@@ -41,8 +41,8 @@
               "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj": {
                 "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj"
               },
-              "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {
-                "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj"
+              "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {
+                "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj"
               },
               "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Caching\\CleanApp.Caching.csproj": {
                 "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Caching\\CleanApp.Caching.csproj"
@@ -1249,14 +1249,14 @@
         }
       }
     },
-    "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {
+    "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",
+        "projectUniqueName": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",
         "projectName": "CleanApp.Bus",
-        "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",
+        "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",
         "packagesPath": "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\",
-        "outputPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\obj\\",
+        "outputPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

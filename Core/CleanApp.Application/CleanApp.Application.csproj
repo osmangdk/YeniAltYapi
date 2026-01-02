@@ -23,5 +23,6 @@
   <ItemGroup>
     <Folder Include="Contracts\ServiceBus\" />
     <Folder Include="Features\" />
+    <Folder Include="Features\Test\Queries\GetAllTests\" />
   </ItemGroup>
 </Project>
