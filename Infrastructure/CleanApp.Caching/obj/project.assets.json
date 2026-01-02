@@ -4366,8 +4366,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj": {
-              "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj"
+            "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj": {
+              "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj"
             }
           }
         }
@@ -4686,7 +4686,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Microsoft.CodeAnalysis.CSharp 2.8.2, Microsoft.CodeAnalysis.Common (= 2.8.2) gerektiriyor ancak sürüm Microsoft.CodeAnalysis.Common 4.5.0 çözümlenmiş.",
+      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp 2.8.2 requires Microsoft.CodeAnalysis.Common (= 2.8.2) but version Microsoft.CodeAnalysis.Common 4.5.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
         "net10.0"

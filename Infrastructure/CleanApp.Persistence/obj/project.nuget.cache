@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xrl9MDrsoUE=",
+  "dgSpecHash": "5teYwCia73w=",
   "success": true,
-  "projectFilePath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+  "projectFilePath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -126,10 +126,10 @@
     {
       "code": "NU1608",
       "level": "Warning",
-      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1, Microsoft.EntityFrameworkCore (>= 7.0.1 && < 8.0.0) gerektiriyor ancak sürüm Microsoft.EntityFrameworkCore 10.0.1 çözümlenmiş.",
-      "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+      "message": "Detected package version outside of dependency constraint: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1 requires Microsoft.EntityFrameworkCore (>= 7.0.1 && < 8.0.0) but version Microsoft.EntityFrameworkCore 10.0.1 was resolved.",
+      "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
       "warningLevel": 1,
-      "filePath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+      "filePath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
       "libraryId": "Microsoft.EntityFrameworkCore",
       "targetGraphs": [
         "net10.0"
@@ -138,10 +138,10 @@
     {
       "code": "NU1608",
       "level": "Warning",
-      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1, Microsoft.EntityFrameworkCore.Abstractions (>= 7.0.1 && < 8.0.0) gerektiriyor ancak sürüm Microsoft.EntityFrameworkCore.Abstractions 10.0.1 çözümlenmiş.",
-      "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+      "message": "Detected package version outside of dependency constraint: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1 requires Microsoft.EntityFrameworkCore.Abstractions (>= 7.0.1 && < 8.0.0) but version Microsoft.EntityFrameworkCore.Abstractions 10.0.1 was resolved.",
+      "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
       "warningLevel": 1,
-      "filePath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+      "filePath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
       "libraryId": "Microsoft.EntityFrameworkCore.Abstractions",
       "targetGraphs": [
         "net10.0"
@@ -150,10 +150,10 @@
     {
       "code": "NU1608",
       "level": "Warning",
-      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1, Microsoft.EntityFrameworkCore.Relational (>= 7.0.1 && < 8.0.0) gerektiriyor ancak sürüm Microsoft.EntityFrameworkCore.Relational 10.0.1 çözümlenmiş.",
-      "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+      "message": "Detected package version outside of dependency constraint: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1 requires Microsoft.EntityFrameworkCore.Relational (>= 7.0.1 && < 8.0.0) but version Microsoft.EntityFrameworkCore.Relational 10.0.1 was resolved.",
+      "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
       "warningLevel": 1,
-      "filePath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+      "filePath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
       "libraryId": "Microsoft.EntityFrameworkCore.Relational",
       "targetGraphs": [
         "net10.0"
@@ -162,10 +162,10 @@
     {
       "code": "NU1608",
       "level": "Warning",
-      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Microsoft.CodeAnalysis.CSharp 2.8.2, Microsoft.CodeAnalysis.Common (= 2.8.2) gerektiriyor ancak sürüm Microsoft.CodeAnalysis.Common 4.5.0 çözümlenmiş.",
-      "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp 2.8.2 requires Microsoft.CodeAnalysis.Common (= 2.8.2) but version Microsoft.CodeAnalysis.Common 4.5.0 was resolved.",
+      "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
       "warningLevel": 1,
-      "filePath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+      "filePath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
         "net10.0"
@@ -174,10 +174,10 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "'Npgsql' 7.0.1 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-x9vc-6hfv-hg8c güvenlik açığı var",
-      "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+      "message": "Package 'Npgsql' 7.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
       "warningLevel": 1,
-      "filePath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
+      "filePath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj",
       "libraryId": "Npgsql",
       "targetGraphs": [
         "net10.0"

@@ -23,6 +23,13 @@
   <ItemGroup>
     <Folder Include="Contracts\ServiceBus\" />
     <Folder Include="Features\" />
+    <Folder Include="Features\Order\" />
+    <Folder Include="Features\Product\" />
+    <Folder Include="Features\Stock\" />
     <Folder Include="Features\Test\Queries\GetAllTests\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Interfaces\MarketPlaces\" />
+    <Folder Include="Interfaces\Repositories\" />
+    <Folder Include="Interfaces\Services\" />
   </ItemGroup>
 </Project>
