@@ -21,7 +21,12 @@
     <ProjectReference Include="..\CleanApp.Domain\CleanApp.Domain.csproj" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Abstractions\" />
+    <Folder Include="Abstractions\Auth\" />
+    <Folder Include="Abstractions\Marketplaces\" />
+    <Folder Include="Abstractions\Persistence\" />
     <Folder Include="Contracts\ServiceBus\" />
+    <Folder Include="DTOs\" />
     <Folder Include="Features\" />
     <Folder Include="Features\Order\" />
     <Folder Include="Features\Product\" />

@@ -7,9 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Hepsiburada\" />
+    <Folder Include="Hepsiburada\Models\" />
     <Folder Include="N11\" />
+    <Folder Include="N11\Auth\" />
+    <Folder Include="N11\Client\" />
+    <Folder Include="N11\Mapping\" />
+    <Folder Include="N11\Models\" />
     <Folder Include="Trendyol\" />
+    <Folder Include="Trendyol\Auth\" />
+    <Folder Include="Trendyol\Client\" />
+    <Folder Include="Trendyol\Mapping\" />
+    <Folder Include="Trendyol\Models\" />
   </ItemGroup>
 
 </Project>
