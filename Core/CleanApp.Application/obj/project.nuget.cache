@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MASmSqyt8i8=",
+  "dgSpecHash": "Mrl0iCyGbgk=",
   "success": true,
   "projectFilePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
   "expectedPackageFiles": [
@@ -111,23 +111,11 @@
     {
       "code": "NU1510",
       "level": "Warning",
-      "message": "PackageReference System.Linq.Expressions will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "message": "PackageReference System.Text.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
       "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
       "warningLevel": 1,
       "filePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
-      "libraryId": "System.Linq.Expressions",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1510",
-      "level": "Warning",
-      "message": "PackageReference System.Net.Http will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
-      "warningLevel": 1,
-      "filePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
-      "libraryId": "System.Net.Http",
+      "libraryId": "System.Text.Json",
       "targetGraphs": [
         "net10.0"
       ]
@@ -147,11 +135,23 @@
     {
       "code": "NU1510",
       "level": "Warning",
-      "message": "PackageReference System.Text.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "message": "PackageReference System.Net.Http will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
       "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
       "warningLevel": 1,
       "filePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
-      "libraryId": "System.Text.Json",
+      "libraryId": "System.Net.Http",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Linq.Expressions will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "libraryId": "System.Linq.Expressions",
       "targetGraphs": [
         "net10.0"
       ]
