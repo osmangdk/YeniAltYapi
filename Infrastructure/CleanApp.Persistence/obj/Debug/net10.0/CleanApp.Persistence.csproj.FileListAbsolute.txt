@@ -9,3 +9,10 @@ e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\Clea
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\refint\CleanApp.Persistence.dll
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.pdb
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\ref\CleanApp.Persistence.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Application.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Domain.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Application.pdb
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\bin\Debug\net10.0\CleanApp.Domain.pdb
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.csproj.AssemblyReference.cache
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.Persistence.sourcelink.json
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Persistence\obj\Debug\net10.0\CleanApp.279648B3.Up2Date

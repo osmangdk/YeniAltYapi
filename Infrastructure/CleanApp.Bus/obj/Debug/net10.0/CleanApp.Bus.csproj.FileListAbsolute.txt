@@ -9,3 +9,10 @@ e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.Bus
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\refint\CleanApp.Bus.dll
 e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.Bus.pdb
 E:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\ref\CleanApp.Bus.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\bin\Debug\net10.0\CleanApp.Application.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\bin\Debug\net10.0\CleanApp.Domain.dll
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\bin\Debug\net10.0\CleanApp.Application.pdb
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\bin\Debug\net10.0\CleanApp.Domain.pdb
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.Bus.csproj.AssemblyReference.cache
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.Bus.sourcelink.json
+e:\Github\YeniAltYapi\Infrastructure\CleanApp.Bus\obj\Debug\net10.0\CleanApp.A05F005F.Up2Date
