@@ -3164,11 +3164,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj": {
-              "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj"
+            "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj": {
+              "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj"
             },
-            "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj": {
-              "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj"
+            "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj": {
+              "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj"
             },
             "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {
               "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj"
@@ -3176,8 +3176,8 @@
             "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Caching\\CleanApp.Caching.csproj": {
               "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Caching\\CleanApp.Caching.csproj"
             },
-            "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj": {
-              "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj"
+            "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj": {
+              "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj"
             }
           }
         }
@@ -3649,7 +3649,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1 requires Microsoft.EntityFrameworkCore (>= 7.0.1 && < 8.0.0) but version Microsoft.EntityFrameworkCore 10.0.1 was resolved.",
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1, Microsoft.EntityFrameworkCore (>= 7.0.1 && < 8.0.0) gerektiriyor ancak sürüm Microsoft.EntityFrameworkCore 10.0.1 çözümlenmiş.",
       "libraryId": "Microsoft.EntityFrameworkCore",
       "targetGraphs": [
         "net10.0"
@@ -3659,7 +3659,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1 requires Microsoft.EntityFrameworkCore.Abstractions (>= 7.0.1 && < 8.0.0) but version Microsoft.EntityFrameworkCore.Abstractions 10.0.1 was resolved.",
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1, Microsoft.EntityFrameworkCore.Abstractions (>= 7.0.1 && < 8.0.0) gerektiriyor ancak sürüm Microsoft.EntityFrameworkCore.Abstractions 10.0.1 çözümlenmiş.",
       "libraryId": "Microsoft.EntityFrameworkCore.Abstractions",
       "targetGraphs": [
         "net10.0"
@@ -3669,7 +3669,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1 requires Microsoft.EntityFrameworkCore.Relational (>= 7.0.1 && < 8.0.0) but version Microsoft.EntityFrameworkCore.Relational 10.0.1 was resolved.",
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1, Microsoft.EntityFrameworkCore.Relational (>= 7.0.1 && < 8.0.0) gerektiriyor ancak sürüm Microsoft.EntityFrameworkCore.Relational 10.0.1 çözümlenmiş.",
       "libraryId": "Microsoft.EntityFrameworkCore.Relational",
       "targetGraphs": [
         "net10.0"
@@ -3679,7 +3679,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Npgsql' 7.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "message": "'Npgsql' 7.0.1 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-x9vc-6hfv-hg8c güvenlik açığı var",
       "libraryId": "Npgsql",
       "targetGraphs": [
         "net10.0"

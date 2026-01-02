@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "110B+RiBy5w=",
+  "dgSpecHash": "F+DIhxOEo5E=",
   "success": true,
   "projectFilePath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",
   "expectedPackageFiles": [
@@ -109,7 +109,7 @@
     {
       "code": "NU1608",
       "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp 2.8.2 requires Microsoft.CodeAnalysis.Common (= 2.8.2) but version Microsoft.CodeAnalysis.Common 4.5.0 was resolved.",
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Microsoft.CodeAnalysis.CSharp 2.8.2, Microsoft.CodeAnalysis.Common (= 2.8.2) gerektiriyor ancak sürüm Microsoft.CodeAnalysis.Common 4.5.0 çözümlenmiş.",
       "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",
       "warningLevel": 1,
       "filePath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",

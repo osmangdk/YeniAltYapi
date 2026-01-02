@@ -4785,11 +4785,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "projectUniqueName": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
       "projectName": "CleanApp.Application",
-      "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
       "packagesPath": "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\",
-      "outputPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\obj\\",
+      "outputPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4813,8 +4813,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj": {
-              "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj"
+            "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj": {
+              "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj"
             }
           }
         }
@@ -5179,7 +5179,7 @@
       "code": "NU1510",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "PackageReference System.Linq.Expressions will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "message": "PackageReference System.Linq.Expressions ayıklanmayacak. Bu paketi bağımlılıklarınızdan kaldırmayı düşünün, çünkü muhtemelen gereksizdir.",
       "libraryId": "System.Linq.Expressions",
       "targetGraphs": [
         "net10.0"
@@ -5189,7 +5189,7 @@
       "code": "NU1510",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "PackageReference System.Net.Http will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "message": "PackageReference System.Net.Http ayıklanmayacak. Bu paketi bağımlılıklarınızdan kaldırmayı düşünün, çünkü muhtemelen gereksizdir.",
       "libraryId": "System.Net.Http",
       "targetGraphs": [
         "net10.0"
@@ -5199,7 +5199,7 @@
       "code": "NU1510",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "PackageReference System.Reflection will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "message": "PackageReference System.Reflection ayıklanmayacak. Bu paketi bağımlılıklarınızdan kaldırmayı düşünün, çünkü muhtemelen gereksizdir.",
       "libraryId": "System.Reflection",
       "targetGraphs": [
         "net10.0"
@@ -5209,7 +5209,7 @@
       "code": "NU1510",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "PackageReference System.Text.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "message": "PackageReference System.Text.Json ayıklanmayacak. Bu paketi bağımlılıklarınızdan kaldırmayı düşünün, çünkü muhtemelen gereksizdir.",
       "libraryId": "System.Text.Json",
       "targetGraphs": [
         "net10.0"
@@ -5219,7 +5219,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp 2.8.2 requires Microsoft.CodeAnalysis.Common (= 2.8.2) but version Microsoft.CodeAnalysis.Common 4.5.0 was resolved.",
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Microsoft.CodeAnalysis.CSharp 2.8.2, Microsoft.CodeAnalysis.Common (= 2.8.2) gerektiriyor ancak sürüm Microsoft.CodeAnalysis.Common 4.5.0 çözümlenmiş.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
         "net10.0"

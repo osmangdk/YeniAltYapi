@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj": {}
+    "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj": {}
   },
   "projects": {
-    "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj": {
+    "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj",
+        "projectUniqueName": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj",
         "projectName": "CleanApp.Domain",
-        "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj",
+        "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj",
         "packagesPath": "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\",
-        "outputPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\obj\\",
+        "outputPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

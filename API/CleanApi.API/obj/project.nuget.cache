@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2UR4/xYX634=",
+  "dgSpecHash": "mYVMgS8+Eps=",
   "success": true,
   "projectFilePath": "e:\\Github\\YeniAltYapi\\API\\CleanApi.API\\CleanApi.API.csproj",
   "expectedPackageFiles": [
@@ -66,7 +66,7 @@
     {
       "code": "NU1608",
       "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1 requires Microsoft.EntityFrameworkCore (>= 7.0.1 && < 8.0.0) but version Microsoft.EntityFrameworkCore 10.0.1 was resolved.",
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1, Microsoft.EntityFrameworkCore (>= 7.0.1 && < 8.0.0) gerektiriyor ancak sürüm Microsoft.EntityFrameworkCore 10.0.1 çözümlenmiş.",
       "projectPath": "e:\\Github\\YeniAltYapi\\API\\CleanApi.API\\CleanApi.API.csproj",
       "warningLevel": 1,
       "filePath": "e:\\Github\\YeniAltYapi\\API\\CleanApi.API\\CleanApi.API.csproj",
@@ -78,7 +78,7 @@
     {
       "code": "NU1608",
       "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1 requires Microsoft.EntityFrameworkCore.Abstractions (>= 7.0.1 && < 8.0.0) but version Microsoft.EntityFrameworkCore.Abstractions 10.0.1 was resolved.",
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1, Microsoft.EntityFrameworkCore.Abstractions (>= 7.0.1 && < 8.0.0) gerektiriyor ancak sürüm Microsoft.EntityFrameworkCore.Abstractions 10.0.1 çözümlenmiş.",
       "projectPath": "e:\\Github\\YeniAltYapi\\API\\CleanApi.API\\CleanApi.API.csproj",
       "warningLevel": 1,
       "filePath": "e:\\Github\\YeniAltYapi\\API\\CleanApi.API\\CleanApi.API.csproj",
@@ -90,7 +90,7 @@
     {
       "code": "NU1608",
       "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1 requires Microsoft.EntityFrameworkCore.Relational (>= 7.0.1 && < 8.0.0) but version Microsoft.EntityFrameworkCore.Relational 10.0.1 was resolved.",
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: Npgsql.EntityFrameworkCore.PostgreSQL 7.0.1, Microsoft.EntityFrameworkCore.Relational (>= 7.0.1 && < 8.0.0) gerektiriyor ancak sürüm Microsoft.EntityFrameworkCore.Relational 10.0.1 çözümlenmiş.",
       "projectPath": "e:\\Github\\YeniAltYapi\\API\\CleanApi.API\\CleanApi.API.csproj",
       "warningLevel": 1,
       "filePath": "e:\\Github\\YeniAltYapi\\API\\CleanApi.API\\CleanApi.API.csproj",
@@ -102,7 +102,7 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "Package 'Npgsql' 7.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "message": "'Npgsql' 7.0.1 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-x9vc-6hfv-hg8c güvenlik açığı var",
       "projectPath": "e:\\Github\\YeniAltYapi\\API\\CleanApi.API\\CleanApi.API.csproj",
       "warningLevel": 1,
       "filePath": "e:\\Github\\YeniAltYapi\\API\\CleanApi.API\\CleanApi.API.csproj",
