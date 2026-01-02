@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YuHM2CfcB4I=",
+  "dgSpecHash": "6XlhmHS7Tpo=",
   "success": true,
   "projectFilePath": "e:\\Github\\YeniAltYapi\\API\\CleanApi.API\\CleanApi.API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\masstransit\\8.5.7\\masstransit.8.5.7.nupkg.sha512",
+    "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\masstransit.abstractions\\8.5.7\\masstransit.abstractions.8.5.7.nupkg.sha512",
+    "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\masstransit.rabbitmq\\8.5.7\\masstransit.rabbitmq.8.5.7.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\mediatr\\14.0.0\\mediatr.14.0.0.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
@@ -26,6 +29,7 @@
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\microsoft.orleans.serialization\\9.2.1\\microsoft.orleans.serialization.9.2.1.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\microsoft.orleans.serialization.abstractions\\9.2.1\\microsoft.orleans.serialization.abstractions.9.2.1.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\microsoft.orleans.serialization.systemtextjson\\9.2.1\\microsoft.orleans.serialization.systemtextjson.9.2.1.nupkg.sha512",
+    "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\rabbitmq.client\\7.2.0\\rabbitmq.client.7.2.0.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\scalar.aspnetcore\\2.11.10\\scalar.aspnetcore.2.11.10.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",

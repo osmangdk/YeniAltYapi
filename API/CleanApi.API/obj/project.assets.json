@@ -64,6 +64,52 @@
           }
         }
       },
+      "MassTransit/8.5.7": {
+        "type": "package",
+        "dependencies": {
+          "MassTransit.Abstractions": "8.5.7"
+        },
+        "compile": {
+          "lib/net10.0/MassTransit.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/MassTransit.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MassTransit.Abstractions/8.5.7": {
+        "type": "package",
+        "compile": {
+          "lib/net10.0/MassTransit.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/MassTransit.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MassTransit.RabbitMQ/8.5.7": {
+        "type": "package",
+        "dependencies": {
+          "MassTransit": "8.5.7",
+          "RabbitMQ.Client": "7.2.0"
+        },
+        "compile": {
+          "lib/net10.0/MassTransit.RabbitMqTransport.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/MassTransit.RabbitMqTransport.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "MediatR/14.0.0": {
         "type": "package",
         "dependencies": {
@@ -414,6 +460,19 @@
           }
         }
       },
+      "RabbitMQ.Client/7.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/RabbitMQ.Client.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/RabbitMQ.Client.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Scalar.AspNetCore/2.11.10": {
         "type": "package",
         "compile": {
@@ -572,7 +631,9 @@
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "CleanApp.Application": "1.0.0",
-          "CleanApp.Domain": "1.0.0"
+          "CleanApp.Domain": "1.0.0",
+          "MassTransit": "8.5.7",
+          "MassTransit.RabbitMQ": "8.5.7"
         },
         "compile": {
           "bin/placeholder/CleanApp.Bus.dll": {}
@@ -687,6 +748,75 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "MassTransit/8.5.7": {
+      "sha512": "ZMJAhl7EHBhHvH1c/Jc6FZdV2sNgf5DETfxVq1Wm7i0By6o8LvrVQakBAvC7GK2ZHMJB2kmeD5YM3JPSGvT3HA==",
+      "type": "package",
+      "path": "masstransit/8.5.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NuGet.README.md",
+        "lib/net10.0/MassTransit.dll",
+        "lib/net10.0/MassTransit.xml",
+        "lib/net472/MassTransit.dll",
+        "lib/net472/MassTransit.xml",
+        "lib/net8.0/MassTransit.dll",
+        "lib/net8.0/MassTransit.xml",
+        "lib/net9.0/MassTransit.dll",
+        "lib/net9.0/MassTransit.xml",
+        "lib/netstandard2.0/MassTransit.dll",
+        "lib/netstandard2.0/MassTransit.xml",
+        "masstransit.8.5.7.nupkg.sha512",
+        "masstransit.nuspec",
+        "mt-logo-small.png"
+      ]
+    },
+    "MassTransit.Abstractions/8.5.7": {
+      "sha512": "HdS4nzARrW34F+ftZpfykSEwmvEFD8Z+lRulwakt0YU9xg4IE3bUmbls15vuOxfC2YDtcr7y3+SQYzXx6fG/vA==",
+      "type": "package",
+      "path": "masstransit.abstractions/8.5.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NuGet.README.md",
+        "lib/net10.0/MassTransit.Abstractions.dll",
+        "lib/net10.0/MassTransit.Abstractions.xml",
+        "lib/net472/MassTransit.Abstractions.dll",
+        "lib/net472/MassTransit.Abstractions.xml",
+        "lib/net8.0/MassTransit.Abstractions.dll",
+        "lib/net8.0/MassTransit.Abstractions.xml",
+        "lib/net9.0/MassTransit.Abstractions.dll",
+        "lib/net9.0/MassTransit.Abstractions.xml",
+        "lib/netstandard2.0/MassTransit.Abstractions.dll",
+        "lib/netstandard2.0/MassTransit.Abstractions.xml",
+        "masstransit.abstractions.8.5.7.nupkg.sha512",
+        "masstransit.abstractions.nuspec",
+        "mt-logo-small.png"
+      ]
+    },
+    "MassTransit.RabbitMQ/8.5.7": {
+      "sha512": "EgT/5pBsDiSqktP+eHE7ssLW6FTfQ0Cd6Kt2Ug/VwM+VSJx7Ua/8/Hyi+HPpt3/qt40qQI5j2/s9xDOrbAkU3w==",
+      "type": "package",
+      "path": "masstransit.rabbitmq/8.5.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NuGet.README.md",
+        "lib/net10.0/MassTransit.RabbitMqTransport.dll",
+        "lib/net10.0/MassTransit.RabbitMqTransport.xml",
+        "lib/net472/MassTransit.RabbitMqTransport.dll",
+        "lib/net472/MassTransit.RabbitMqTransport.xml",
+        "lib/net8.0/MassTransit.RabbitMqTransport.dll",
+        "lib/net8.0/MassTransit.RabbitMqTransport.xml",
+        "lib/net9.0/MassTransit.RabbitMqTransport.dll",
+        "lib/net9.0/MassTransit.RabbitMqTransport.xml",
+        "lib/netstandard2.0/MassTransit.RabbitMqTransport.dll",
+        "lib/netstandard2.0/MassTransit.RabbitMqTransport.xml",
+        "masstransit.rabbitmq.8.5.7.nupkg.sha512",
+        "masstransit.rabbitmq.nuspec",
+        "mt-logo-small.png"
       ]
     },
     "MediatR/14.0.0": {
@@ -1782,6 +1912,23 @@
         "microsoft.orleans.serialization.systemtextjson.nuspec"
       ]
     },
+    "RabbitMQ.Client/7.2.0": {
+      "sha512": "PPQ7cF7lwbhqC4up6en1bTUZlz06YqQwJecOJzsguTtyhNA7oL5uNDZIx/h6ZfcyPZV4V3DYKSCxfm4RUFLcbA==",
+      "type": "package",
+      "path": "rabbitmq.client/7.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net8.0/RabbitMQ.Client.dll",
+        "lib/net8.0/RabbitMQ.Client.xml",
+        "lib/netstandard2.0/RabbitMQ.Client.dll",
+        "lib/netstandard2.0/RabbitMQ.Client.xml",
+        "rabbitmq.client.7.2.0.nupkg.sha512",
+        "rabbitmq.client.nuspec"
+      ]
+    },
     "Scalar.AspNetCore/2.11.10": {
       "sha512": "tkiZTK3pxiniTl9sVz5WY2bn8Y+vaFu9yo2Qrs4guMXoBB3wTbKwXIwFvcZnpantGeYxSk9/+UZ5BQ6eFG69Dw==",
       "type": "package",
@@ -2041,14 +2188,14 @@
             "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj": {
               "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Domain\\CleanApp.Domain.csproj"
             },
-            "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {
-              "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj"
+            "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {
+              "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj"
             },
             "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Caching\\CleanApp.Caching.csproj": {
               "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Caching\\CleanApp.Caching.csproj"
             },
-            "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj": {
-              "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj"
+            "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj": {
+              "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Persistence\\CleanApp.Persistence.csproj"
             }
           }
         }

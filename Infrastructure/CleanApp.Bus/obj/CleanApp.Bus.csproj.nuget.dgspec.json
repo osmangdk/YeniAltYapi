@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {}
+    "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {}
   },
   "projects": {
     "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj": {
@@ -738,14 +738,14 @@
         }
       }
     },
-    "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {
+    "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",
+        "projectUniqueName": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",
         "projectName": "CleanApp.Bus",
-        "projectPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",
+        "projectPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\CleanApp.Bus.csproj",
         "packagesPath": "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\",
-        "outputPath": "e:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\obj\\",
+        "outputPath": "E:\\Github\\YeniAltYapi\\Infrastructure\\CleanApp.Bus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -793,6 +793,16 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.5.7, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.5.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
