@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mrl0iCyGbgk=",
+  "dgSpecHash": "kCIUMVqboJ0=",
   "success": true,
-  "projectFilePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+  "projectFilePath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\osman.gedik.AILE\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
@@ -111,23 +111,11 @@
     {
       "code": "NU1510",
       "level": "Warning",
-      "message": "PackageReference System.Text.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "message": "PackageReference System.Linq.Expressions will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
       "warningLevel": 1,
-      "filePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
-      "libraryId": "System.Text.Json",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1510",
-      "level": "Warning",
-      "message": "PackageReference System.Reflection will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
-      "warningLevel": 1,
-      "filePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
-      "libraryId": "System.Reflection",
+      "filePath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "libraryId": "System.Linq.Expressions",
       "targetGraphs": [
         "net10.0"
       ]
@@ -136,9 +124,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference System.Net.Http will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
       "warningLevel": 1,
-      "filePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "filePath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
       "libraryId": "System.Net.Http",
       "targetGraphs": [
         "net10.0"
@@ -147,11 +135,23 @@
     {
       "code": "NU1510",
       "level": "Warning",
-      "message": "PackageReference System.Linq.Expressions will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "message": "PackageReference System.Reflection will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
       "warningLevel": 1,
-      "filePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
-      "libraryId": "System.Linq.Expressions",
+      "filePath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "libraryId": "System.Reflection",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Text.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "libraryId": "System.Text.Json",
       "targetGraphs": [
         "net10.0"
       ]
@@ -160,9 +160,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp 2.8.2 requires Microsoft.CodeAnalysis.Common (= 2.8.2) but version Microsoft.CodeAnalysis.Common 4.5.0 was resolved.",
-      "projectPath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "projectPath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
       "warningLevel": 1,
-      "filePath": "E:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
+      "filePath": "e:\\Github\\YeniAltYapi\\Core\\CleanApp.Application\\CleanApp.Application.csproj",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
         "net10.0"

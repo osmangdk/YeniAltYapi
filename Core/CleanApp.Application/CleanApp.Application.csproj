@@ -20,4 +20,8 @@
   <ItemGroup>
     <ProjectReference Include="..\CleanApp.Domain\CleanApp.Domain.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Contracts\ServiceBus\" />
+    <Folder Include="Features\" />
+  </ItemGroup>
 </Project>
